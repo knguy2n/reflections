@@ -21,3 +21,8 @@ diagrams help you see reachability of each commit within the branch structure th
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging of two branches allows to bring together experimental features you developed into your master, the merge is displayed as another commit that allows you to reach back into each branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pro- you are able to merge different versions of code pretty quickly 
+con- manaully give you more control and less likely merge errors
