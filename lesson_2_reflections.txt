@@ -17,3 +17,7 @@ When you are experimenting new features but they aren't ready to be put into pro
 How do the diagrams help you visualize the branch structure?
 
 diagrams help you see reachability of each commit within the branch structure that way you understand how the commits are related
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging of two branches allows to bring together experimental features you developed into your master, the merge is displayed as another commit that allows you to reach back into each branch.
