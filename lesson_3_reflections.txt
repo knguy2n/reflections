@@ -15,3 +15,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Because it allows you to have the lastest version of the code while allowing you to still experiment on your own branch
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub you'd need to meet in person and compare code manually. Each person would have their own copy of the code but merging changes would be very difficult. 
