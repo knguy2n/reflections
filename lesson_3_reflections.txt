@@ -18,3 +18,7 @@ Because it allows you to have the lastest version of the code while allowing you
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or GitHub you'd need to meet in person and compare code manually. Each person would have their own copy of the code but merging changes would be very difficult. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would make changes in a seperate branch when you need another person to look at the code and approve it. It would allow people to see the changes and approve them. Directly makes more sense if it's code thats not shared!
